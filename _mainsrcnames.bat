@@ -1,1 +1,1 @@
-@SET _mainsrc=src\cmd\fo-htdigest\htdigest-go.go
+@SET _mainsrc=cmd\fo-htdigest\htdigest-go.go
